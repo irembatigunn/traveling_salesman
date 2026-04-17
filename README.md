@@ -265,10 +265,4 @@ streamlit run app.py
 
 ---
 
-## License
 
-This project is developed as part of the **AI in Action — Applied Programming Project** course assignment.
-
----
-
-*Built with ❤ using Python & Streamlit*
