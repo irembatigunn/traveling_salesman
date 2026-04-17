@@ -109,8 +109,8 @@ Distance ↓           ↑ accepts worse        (escaped local optimum!)
 |  **Batch Experiment** | Run both algorithms on multiple instances with statistical analysis |
 |  **Kaggle Dataset** | Uses TSPLIB dataset (2,783 instances, 20 cities each) |
 |  **Random Generator** | Custom city generation (5-50 cities) for additional experiments |
-| ⚡ **Numba JIT** | JIT-compiled distance calculations for high performance |
-| 🎨 **Premium UI** | Dark-themed interactive dashboard with Plotly charts |
+|  **Numba JIT** | JIT-compiled distance calculations for high performance |
+|  **Premium UI** | Dark-themed interactive dashboard with Plotly charts |
 
 ---
 
